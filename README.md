@@ -9,7 +9,7 @@
   </a>
 </p>
 
-## Stats
+## ステータス
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiruku-shibata&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiruku-shibat&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shiruku-shibat&theme=gruvbox)
