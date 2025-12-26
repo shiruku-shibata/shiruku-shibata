@@ -1,4 +1,4 @@
-## Hi there 👋
+## こんにちは！ 👋
 
 <p align="left">
   <a href="https://github.com/shiruku-shibata">
