@@ -1,4 +1,4 @@
-# SHIBATA YUTO
+# SHIBATA YUTO 👾
 
 <p align="left">
   <a href="https://github.com/shiruku-shibata">
@@ -9,26 +9,46 @@
   </a>
 </p>
 
----
-
-こんにちは!!
-神奈川県で面白いセンサーを使ったゲーム制作をしています！
-
-- 🏢 所属：ゲーム制作集団UNUSE
-- 💡 興味分野：組み込み / ゲーム開発 / シリアスゲーム
+<!-- タイピングアニメーション -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=435&lines=Game+Dev+%C3%97+Embedded+Engineer;Unity+%2B+Arduino+%2B+%E9%9A%9C%E5%AD%90+%3D+%F0%9F%8E%AE;Serious+Games+%C3%97+%E5%92%8C%E9%A2%A8%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3;UNUSE+%2F+Yokohama+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+</a>
 
 ---
 
-## 使用言語 / ツール
+神奈川からセンサーとゲームで遊んでる人  
+🏢 **UNUSE** · 🔧 組み込み · 🎮 シリアスゲーム
+
+---
+
+## 🛠 スタック
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cs,java,unity,arduino&theme=dark" />
 </p>
 
-## メールアドレス
-
-- 22siruku@gmail.com
+`M5StickC Plus2` `PlatformIO` `Processing`
 
 ---
 
+## 🗂 つくったもの
+
+| プロジェクト | 概要 |
+|---|---|
+
+---
+
+## 📊 Stats
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiruku-shibata&theme=github)
+
+---
+
+## 📬 連絡先
+<a href="22siruku@gmail.com">
+  <img src="https://img.shields.io/badge/email-your%40email.com-grey?style=flat&logo=gmail" />
+</a>
+
+---
+
+*コードと障子と謎の電子工作 — Yokohama 🇯🇵*
