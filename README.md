@@ -11,9 +11,8 @@
 
 <!-- タイピングアニメーション -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=435&lines=Game+Dev+%C3%97+Embedded+Engineer;Unity+%2B+Arduino+%2B+%E9%9A%9C%E5%AD%90+%3D+%F0%9F%8E%AE;Serious+Games+%C3%97+%E5%92%8C%E9%A2%A8%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3;UNUSE+%2F+Yokohama+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=435&lines=Game+Dev+%C3%97+Embedded+Engineer;Unity+%2B+Sensor+%2B+controller;UNUSE" alt="Typing SVG" />
 </a>
-
 ---
 
 センサーとゲームで遊んでる人  
