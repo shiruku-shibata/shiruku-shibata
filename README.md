@@ -1,4 +1,4 @@
-# SHIBATA YUTO 👾
+# S_Y 👾
 
 <p align="left">
   <a href="https://github.com/shiruku-shibata">
@@ -16,7 +16,7 @@
 
 ---
 
-神奈川からセンサーとゲームで遊んでる人  
+センサーとゲームで遊んでる人  
 🏢 **UNUSE** · 🔧 組み込み · 🎮 シリアスゲーム
 
 ---
