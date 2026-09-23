@@ -1,4 +1,4 @@
-# S_Y 👾
+# SIRU 👾
 
 <p align="left">
   <a href="https://github.com/shiruku-shibata">
